@@ -21,7 +21,7 @@ function letsPlay(player1, player2) {
 
 }
 
-console.log(letsPlay('paper', 'rock'));
+console.log(letsPlay('paper', 'paper'));
 
 
 

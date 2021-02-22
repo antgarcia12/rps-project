@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rpsHeading {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 45px;
+}
+
+.rpsButtons {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+    margin-bottom: 3em;
+}
+
+.rps {
+    margin-left: 20px;
+    padding: 15px 32px;
+    border-radius: 15px;
+    width: 118.6px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 200;
+    font-size: 15px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.threeChoices {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 9em;
+}
+
+.choices {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 24px;
+}
